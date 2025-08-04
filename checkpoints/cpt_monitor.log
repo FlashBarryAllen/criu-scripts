@@ -1,0 +1,169 @@
+
+成功从文件中读取 SimPoints。
+Creating checkpoint for SimPoint: 7354
+INTERVAL_SIZE: 100000000
+INSTRUCTION_COUNT: 735400000000
+Starting clean checkpoint dir...
+Starting mcf_r_base.ycl-64 in the background...
+simpoint: 7354
+pid:      430741
+Using ptrace-wait to stop process 430741 after 735400000000 instructions...
+====================================================
+Instruction Count: 735400084324
+Cycle Count: 827268492771
+CPI: 1.125
+====================================================
+====================================================
+Instruction Count: 735400084324
+Cycle Count: 827268492771
+IPC: 0.889
+====================================================
+Process 430741 is stopped. Proceeding with CRIU dump...
+Dumping process state with CRIU...
+CRIU dump completed. The checkpoint is in /home/yangchunlin/checkpoints/mcf_r/cpt_7354.
+finish  checkpoint.
+Creating checkpoint for SimPoint: 4272
+INTERVAL_SIZE: 100000000
+INSTRUCTION_COUNT: 427200000000
+Starting clean checkpoint dir...
+Starting mcf_r_base.ycl-64 in the background...
+simpoint: 4272
+pid:      448434
+Using ptrace-wait to stop process 448434 after 427200000000 instructions...
+====================================================
+Instruction Count: 427200179071
+Cycle Count: 494464976773
+CPI: 1.157
+====================================================
+====================================================
+Instruction Count: 427200179071
+Cycle Count: 494464976773
+IPC: 0.864
+====================================================
+Process 448434 is stopped. Proceeding with CRIU dump...
+Dumping process state with CRIU...
+CRIU dump completed. The checkpoint is in /home/yangchunlin/checkpoints/mcf_r/cpt_4272.
+finish  checkpoint.
+Creating checkpoint for SimPoint: 4294
+INTERVAL_SIZE: 100000000
+INSTRUCTION_COUNT: 429400000000
+Starting clean checkpoint dir...
+Starting mcf_r_base.ycl-64 in the background...
+simpoint: 4294
+pid:      459215
+Using ptrace-wait to stop process 459215 after 429400000000 instructions...
+====================================================
+Instruction Count: 429400402804
+Cycle Count: 493490653790
+CPI: 1.149
+====================================================
+====================================================
+Instruction Count: 429400402804
+Cycle Count: 493490653790
+IPC: 0.870
+====================================================
+Process 459215 is stopped. Proceeding with CRIU dump...
+Dumping process state with CRIU...
+CRIU dump completed. The checkpoint is in /home/yangchunlin/checkpoints/mcf_r/cpt_4294.
+finish  checkpoint.
+Creating checkpoint for SimPoint: 4662
+INTERVAL_SIZE: 100000000
+INSTRUCTION_COUNT: 466200000000
+Starting clean checkpoint dir...
+Starting mcf_r_base.ycl-64 in the background...
+simpoint: 4662
+pid:      470061
+Using ptrace-wait to stop process 470061 after 466200000000 instructions...
+====================================================
+Instruction Count: 466200077706
+Cycle Count: 540576067326
+CPI: 1.160
+====================================================
+====================================================
+Instruction Count: 466200077706
+Cycle Count: 540576067326
+IPC: 0.862
+====================================================
+Process 470061 is stopped. Proceeding with CRIU dump...
+Dumping process state with CRIU...
+CRIU dump completed. The checkpoint is in /home/yangchunlin/checkpoints/mcf_r/cpt_4662.
+finish  checkpoint.
+Creating checkpoint for SimPoint: 3060
+INTERVAL_SIZE: 100000000
+INSTRUCTION_COUNT: 306000000000
+Starting clean checkpoint dir...
+Starting mcf_r_base.ycl-64 in the background...
+simpoint: 3060
+pid:      481739
+Using ptrace-wait to stop process 481739 after 306000000000 instructions...
+====================================================
+Instruction Count: 306000016640
+Cycle Count: 345451762303
+CPI: 1.129
+====================================================
+====================================================
+Instruction Count: 306000016640
+Cycle Count: 345451762303
+IPC: 0.886
+====================================================
+Process 481739 is stopped. Proceeding with CRIU dump...
+Dumping process state with CRIU...
+CRIU dump completed. The checkpoint is in /home/yangchunlin/checkpoints/mcf_r/cpt_3060.
+finish  checkpoint.
+Creating checkpoint for SimPoint: 6695
+INTERVAL_SIZE: 100000000
+INSTRUCTION_COUNT: 669500000000
+Starting clean checkpoint dir...
+Starting mcf_r_base.ycl-64 in the background...
+simpoint: 6695
+pid:      489190
+Using ptrace-wait to stop process 489190 after 669500000000 instructions...
+====================================================
+Instruction Count: 669500336976
+Cycle Count: 748427936263
+CPI: 1.118
+====================================================
+====================================================
+Instruction Count: 669500336976
+Cycle Count: 748427936263
+IPC: 0.895
+====================================================
+Process 489190 is stopped. Proceeding with CRIU dump...
+Dumping process state with CRIU...
+CRIU dump completed. The checkpoint is in /home/yangchunlin/checkpoints/mcf_r/cpt_6695.
+finish  checkpoint.
+Creating checkpoint for SimPoint: 6144
+INTERVAL_SIZE: 100000000
+INSTRUCTION_COUNT: 614400000000
+Starting clean checkpoint dir...
+Starting mcf_r_base.ycl-64 in the background...
+simpoint: 6144
+pid:      505764
+Using ptrace-wait to stop process 505764 after 614400000000 instructions...
+====================================================
+Instruction Count: 614400253160
+Cycle Count: 694018529882
+CPI: 1.130
+====================================================
+====================================================
+Instruction Count: 614400253160
+Cycle Count: 694018529882
+IPC: 0.885
+====================================================
+Process 505764 is stopped. Proceeding with CRIU dump...
+Dumping process state with CRIU...
+CRIU dump completed. The checkpoint is in /home/yangchunlin/checkpoints/mcf_r/cpt_6144.
+finish  checkpoint.
+Creating checkpoint for SimPoint: 259
+INTERVAL_SIZE: 100000000
+INSTRUCTION_COUNT: 25900000000
+Starting clean checkpoint dir...
+Starting mcf_r_base.ycl-64 in the background...
+simpoint: 
+pid:      520669
+Using ptrace-wait to stop process 520669 after 0 instructions...
+Invalid PID or instruction count
+Process 520669 is stopped. Proceeding with CRIU dump...
+Dumping process state with CRIU...
+CRIU dump completed. The checkpoint is in /home/yangchunlin/checkpoints/mcf_r/cpt_.
+finish  checkpoint.
